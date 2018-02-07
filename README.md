@@ -12,7 +12,7 @@ Google Doc Add-On Script to help manage manual, inline annotations
 ## Usage
 Convert annotations in the form [a] [ab] [a1] [ab12] to sequentially numeric annotations in the form [1].
  
-To run click Add-Ons > Annotation Helper > Convert Annotations.
+To run click Add-ons > Annotation Helper > Convert Annotations.
 
 Example:
 ```

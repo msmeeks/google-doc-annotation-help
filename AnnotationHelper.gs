@@ -35,7 +35,7 @@ function onInstall(e) {
 /**
  * Convert annotations in the form [a] [ab] [a1] [ab12] to sequentially numeric annotations in the form [1].
  *
- * Run from the Add-Ons > Annotation Helper > Convert Annotations menu item.
+ * Run from the Add-ons > Annotation Helper > Convert Annotations menu item.
  *
  * Example:
  *   Here is some text with an annotation [a]. And some more text with another annotation [b].
